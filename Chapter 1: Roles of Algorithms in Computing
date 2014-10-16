@@ -1,0 +1,4 @@
+1. an algorithm is any well-defined computational procedure that takes some value, or set of values, as input and produces some value, or set of values, as output
+2. Sorting is a fundamental operation in computer science (many programs use it as an intermediate step), and as a result a large number of good sorting algorithms have been developed. Which algorithm is best for a given application depends on-among other factors-the number of items to be sorted, the extent to which the items are already somewhat sorted, possible restrictions on the item values, and the kind of storage device to be used: main memory, disks, or tapes.
+
+
